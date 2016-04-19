@@ -1,9 +1,12 @@
 [submodule "tivaware"]
 	path = tivaware
 	url = https://github.com/antoinealb/Tivaware
+	branch = d4c9374385e28784a07ed199a404e0129e2c4bc9
 [submodule "rust"]
 	path = rust
 	url = https://github.com/rust-lang/rust
+	branch = ed7c56796ef17f13227a50dc1a72a018b1d5e33f
 [submodule "lm4tools"]
 	path = lm4tools
 	url = https://github.com/utzig/lm4tools/
+	branch = 5a4bc0b31af3619314050dccf0606f34726aeea2

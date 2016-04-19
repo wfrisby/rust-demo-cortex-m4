@@ -1,11 +1,11 @@
-#![feature(no_std)]
-#![feature(core)]
+//#![feature(no_std)]
+//#![feature(core)]
 #![feature(lang_items)]
 #![no_std]
 
 #![crate_type="staticlib"]
 
-extern crate core;
+//extern crate core;
 
 mod bitflags;
 mod runtime;
